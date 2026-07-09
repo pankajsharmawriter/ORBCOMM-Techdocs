@@ -1,1 +1,1 @@
-define({numchunks:1,prefix:'QuickStartGuide_TOC_Chunk',chunkstart:['/Content/QuickStartGuide/DeviceOverview.htm'],tree:{n:[{i:0,c:0},{i:1,c:0},{i:2,c:0},{i:3,c:0}]}});
+define({numchunks:1,prefix:'QuickStartGuide_TOC_Chunk',chunkstart:['/Content/QuickStartGuide/BasicConfiguration.htm'],tree:{n:[{i:0,c:0},{i:1,c:0},{i:2,c:0},{i:3,c:0},{i:4,c:0},{i:5,c:0},{i:6,c:0}]}});

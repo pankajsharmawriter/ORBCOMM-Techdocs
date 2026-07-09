@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2026 Generated QuickStartGuide-HTML5.fltar" Date="2026-07-09T17:07:05.2508525+05:30" Branch="gh-pages" Commit="6dc3c6b118a1af92f4e8db2f5ca78a6590c06bf2">
+<MadCapLog Protocol="2" Description="MadCap Flare 2026 Generated QuickStartGuide-HTML5.fltar" Date="2026-07-09T17:29:10.3446763+05:30" Branch="gh-pages" Commit="a42347cb804df89ab300c623aaf0cf2ac42a54c1">
     <Messages>Compiling target QuickStartGuide-HTML5...
 WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.
 Removing previously generated content...
@@ -50,7 +50,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 2
-Output generated in 21 second(s).
+Output generated in 9 second(s).
 
 Done
 Saving log to "C:\Users\computer\Documents\GitHub\ORBCOMM-Techdocs\ST2100_QuickStartGuide\Output\computer\QuickStartGuide-HTML5\QuickStartGuide-HTML5.mclog"
