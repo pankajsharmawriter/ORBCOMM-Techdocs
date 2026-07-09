@@ -101,3 +101,9 @@ p.Note
 	border-left-style: solid;
 }
 
+th
+{
+	background-color: blue;
+	color: white;
+}
+
